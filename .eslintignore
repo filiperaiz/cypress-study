@@ -1,5 +1,0 @@
-!.jest
-dist
-public
-build
-/**/*.d.ts
