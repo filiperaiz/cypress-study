@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": false,
+    "editor.renderWhitespace": "none",
+    "editor.formatOnPaste": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.renderLineHighlight": "gutter",
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    }
+  }
+  
